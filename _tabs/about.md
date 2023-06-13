@@ -16,7 +16,7 @@ order: 4
 
 ## Work Experience
 ---
-### [IQVIA Inc.](https://www.iqvia.com/)
+### [IQVIA Inc. (Dhaka)](https://www.iqvia.com/)
 * Associate Software Developer
   * March 2022 - Current
 * Intern
